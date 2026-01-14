@@ -27,14 +27,7 @@
 
 ---
 
-## 📊 GitHub Statistikalarım
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolyCode-12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolyCode-12&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 
 ---
 
