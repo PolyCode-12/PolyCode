@@ -1,1 +1,42 @@
-# PolyCode
+![Typing](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Poly+Code;Frontend+Developer;HTML+CSS+JavaScript;Always+Learning)
+<h1 align="center">👋 Salam, mən Poly Code</h1>
+
+<p align="center">
+  <b>Frontend Developer</b> • HTML • CSS • JavaScript
+</p>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@poly_moly0" target="_blank">
+    🎵 TikTok Profilim
+  </a>
+</p>
+
+---
+
+## 🚀 Haqqımda
+- 💻 Frontend proqramlaşdırma ilə məşğulam  
+- 🎯 Fokus: *təmiz dizayn və JavaScript məntiqi*
+- 📚 Praktik layihələrlə özümü inkişaf etdirirəm  
+
+---
+
+## 🛠 Texnologiyalar
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" />
+</p>
+
+---
+
+## 📊 GitHub Statistikalarım
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PolyCode-12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolyCode-12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Əlaqə
+- TikTok: <a href="https://www.tiktok.com/@poly_moly0">@poly_moly0</a>
